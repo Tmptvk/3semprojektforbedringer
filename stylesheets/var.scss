@@ -1,0 +1,31 @@
+// colors
+
+$col-brown:#391f17;
+
+
+
+//font
+$pri-font: bree, sans-serif;
+
+//fontsizes
+$heading: 1.5rem;
+$btnfontsize:1.2rem;
+$ptxsize:0.9rem;
+$dtxsize:1px;
+$frontsize:1px;
+
+//Mixins
+@mixin border-radius($radiuos){
+  -webkit-border-radius: $radiuos;
+  -moz-border-radius: $radiuos;
+  -ms-border-radius: $radiuos;
+  border-radius: $radiuos;
+}
+
+
+// Custom devices
+@mixin rwd($screen) {
+   @media only screen and (max-width: $screen+'px') {
+       @content;
+   }
+}
