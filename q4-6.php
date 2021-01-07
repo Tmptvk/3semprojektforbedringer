@@ -16,7 +16,7 @@
         <div class="validate">
           <div class="pwrapper">
             <p> Vælg venligst, <br>
-              et spil, <br> eller en uddybende snak med en guru </p>
+              et spil, <br> eller en uddybende snak med en spilguide </p>
           </div>
         </div>
           <!--baggrund to biledder, i et grid, det ene over det andet, brug z indeks, og øverste billed hus-->
@@ -32,7 +32,7 @@
                 Et par spil er nu klar,
                 til at blive spillet i min bar. <br>
                 Vil du gøre dit ønske mere klart,  <br>
-                er guruen en go' kammerat!
+                er den virtuelle spilguide en go' kammerat!
               </p>
             </div>
 
@@ -47,7 +47,7 @@
             <div class="selectwrapper">
             <ul>
               <label class="listwrapper3">Yes! Giv mig et spil!<input id="q4-1" type ="radio" value="1" name="select-q4[]" ><span class="underline"></span> </label>
-              <label class="listwrapper3">Jeg vil gerne snakke med en Guru først<input id="q4-2" type ="radio" value="1" name="select-q4[]" ><span class="underline"></span> </label>
+              <label class="listwrapper3">Jeg vil gerne snakke med en virtuel spilguide først<input id="q4-2" type ="radio" value="1" name="select-q4[]" ><span class="underline"></span> </label>
 
             </ul>
             </div>

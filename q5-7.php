@@ -34,7 +34,7 @@ session_start();
           <div class="validate2">
             <div class="pwrapper">
               <p> Vælg venligst, <br>
-                i mellem en af guruerne</p>
+                i mellem en af guiderne</p>
             </div>
           </div>
           <div class="paperwrapper4 hej" >
@@ -42,7 +42,7 @@ session_start();
               <p>5/7</p>
             </div>
             <div class="headingwrapper">
-              <h1>Valg af guru</h1>
+              <h1>Valg af guide</h1>
             </div>
             <div class="arrow-upwrapper">
               <div class="pilop">
@@ -53,7 +53,7 @@ session_start();
             </div>
             <div class="txtwrapperit">
               <p>
-                Guruerne er til for at hjælpe dig <br> med at finde et mere defineret spil.
+                De virtuelle spilguider er til for at hjælpe dig <br> med at finde et mere defineret spil.
               </p>
             </div>
 

@@ -1097,7 +1097,7 @@
       * .bgwrapper6 .paperwrapper6 .noResult {
         grid-column: 2/3; }
       * .bgwrapper6 .paperwrapper6 .displaywrapper {
-        grid-row: 4/ span 8;
+        grid-row: 3/ span 8;
         grid-column: 1/-1;
         display: grid;
         grid-template-columns: 10% 1fr 10%;
@@ -1106,8 +1106,7 @@
         * .bgwrapper6 .paperwrapper6 .displaywrapper .gameresultwrapper {
           grid-column: 2/3;
           display: grid;
-          grid-template-columns: 1fr;
-          grid-template-rows: 10vh 30vh 10vh; }
+          grid-template-columns: 1fr; }
           * .bgwrapper6 .paperwrapper6 .displaywrapper .gameresultwrapper .gameresultimg {
             grid-column: 1/-1;
             grid-row: 2/3;
