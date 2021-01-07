@@ -78,6 +78,9 @@ elseif ($guru === "sarah") {
             <div class="headingwrapper">
               <h1>Valg af genre</h1>
             </div>
+            <div class="infowrapper">
+            <p>Vælg gerne mere end en</p>
+            </div>
             <div class="arrow-upwrapper">
               <div class="pilop">
                 <img id="pilopimg"src="media\Pil-op.png" alt="">
@@ -89,7 +92,7 @@ elseif ($guru === "sarah") {
               <p>
               </p>
             </div>
-            <div id="alittleup" class="selectwrapper">
+            <div class="selectwrapper">
             <ul id="ul-on">
               <!--RETTE UNDERLINE LÆNGDE VIS DET KAN NÅET I RETTE UGERNE-->
               <label id="q6-0" class="listwrapper3">Overrask mig!<input  type ="checkbox" value="not-set" name="select-q6[]" ><span class="underline"></span> </label>

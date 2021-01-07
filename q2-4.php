@@ -34,6 +34,10 @@ session_start(); ?>
             <div class="headingwrapper">
               <h1>Hvor lang tid må spillet tage?</h1>
             </div>
+
+            <div class="infowrapper">
+            <p>Vælg gerne mere end en</p>
+            </div>
             <div class="arrow-upwrapper">
               <div class="pilop">
                 <img id="pilopimg"src="media\Pil-op.png" alt="">
