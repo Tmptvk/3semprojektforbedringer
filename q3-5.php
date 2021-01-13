@@ -5,6 +5,8 @@ session_start(); ?>
   <head>
     <?php include 'psecs/head.php';?>
     <script src="javascript/validate.js" defer></script>
+    <script src="javascript/easteregg.js" defer></script>
+    <link rel="stylesheet" href="stylesheets/easteregg.css">
     <title></title>
   </head>
   <body>
@@ -22,6 +24,15 @@ session_start(); ?>
                 </p>
             </div>
           </div>
+          <div id="generate" class="generate">
+
+          </div>
+          <div id="thediv" class="eastereggwrapper">
+            <div id="randomquote" class="easteregg">
+
+            </div>
+          </div>
+
           <div class="paperwrapper2">
             <div class="counterwrapper">
               <p>3/7</p>
